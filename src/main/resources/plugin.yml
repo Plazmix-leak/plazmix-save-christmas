@@ -1,0 +1,5 @@
+name: SaveChristmas
+version: 1.0.1
+main: net.plazmix.savechristmas.SaveChristmasGame
+depend:
+  - PlazmixAPI
